@@ -118,5 +118,5 @@ app.get("/showArticles",async(req,res)=>{
 })
 
 app.listen(15892,()=>{
-    console.log("I am listening in port 3000")
+    console.log("I am listening in port 15892")
 })
